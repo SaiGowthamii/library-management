@@ -1,0 +1,13 @@
+1.Gathering requirements
+. user requirements document
+. Existing System requirements
+. Internet requirements
+. Expert advice
+. Functional requirements
+
+output : supplementary specification document
+2. Analysis
+.  Problem statement
+.  Feasibility study
+.  Literature Survey
+.  Scope
