@@ -11,3 +11,8 @@ output : supplementary specification document
 .  Feasibility study
 .  Literature Survey
 .  Scope
+
+Testing
+. Review 
+. Auditing
+. Automation testing
